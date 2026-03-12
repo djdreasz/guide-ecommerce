@@ -1,20 +1,19 @@
-# guide-ecommerce
+# Guide E-commerce
 
-This is an elegant implementation of an e-commerce guide.
+This repository contains an elegant implementation of an e-commerce guide.
 
 ## Features
-- Product listing
-- Shopping cart functionality
+- User-friendly interface
+- Secure payment integration
 
-## Technical Stack
-- Django
-- PostgreSQL
+## Technology Stack
+- HTML/CSS for frontend
+- Node.js for backend
+- Stripe for payment processing
 
 ## Usage
-1. Clone the repository
-2. Set up the database
-3. Run the server
+Clone the repository and start the application to explore the e-commerce functionalities.
 
 ## Future Plans
-- Add payment integration
-- Improve the user interface
+- Add more payment options
+- Enhance product management features
